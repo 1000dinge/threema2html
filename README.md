@@ -1,5 +1,5 @@
 # threema2html
-Build HTML-Page from iOS Threema Chat-Export
+Linux script to build HTML-Page from iOS Threema Chat-Export
 
 - Testet on Ubuntu 24.04.1 lTS
 - Will not work on macOS (you'll need GnuGrep)
