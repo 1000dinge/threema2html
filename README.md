@@ -18,7 +18,7 @@ For your information:
 - Images are displayed with preview size, videos should also have a preview, everything else is displayed as a simple link.
 - Visually, the output is based on WhatsApp, which I found nicer. Otherwise, this can be customised in the CSS part of the script.
 - Tested with Threema for iOS in version 6.3.1 (6342). Script tested on Ubuntu 24.04.1 LTS. Chrome can display the generated page without any problems.
-- You are welcome to adapt and correct the script. You are also welcome to redistribute it, perhaps with a reference to the thread here.
+- You are welcome to adapt and correct the script. You are also welcome to redistribute it, perhaps with a reference to here.
 
 Known problems:
 
